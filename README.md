@@ -1,7 +1,7 @@
 # Text Visualization
 This repo create a dashboard for text visualization using Python and JavaScript.
 
-See the deployed dashboard [here](https://joeyzhuo.github.io/SummerSchool-in-PKU/DataViz2_Text_Visualization/).
+See the deployed dashboard [here](https://joeyding2003.github.io/DataViz-2_Text-Visualization/).
 
 ## Content Explanation:
  - index.html serves as the main dashboard for text visualization
